@@ -14,11 +14,11 @@
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-128.png"/>
 </a>
  </a>
-  <a href="  https://stackoverflow.com/users/3685975/user3685975">
+  <a href="https://stackoverflow.com/users/12858319/kubin-neonard">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Stack_Overflow-128.png"/>
 </a> 
  </a>
-   <a href=" https://www.coursera.org/user/51a5ebecf4f9f1cd1590041c9b1be7da">
+   <a href="https://www.coursera.org/user/51a5ebecf4f9f1cd1590041c9b1be7da">
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/coursera-128.png"/>
 </a> 
  </a>
