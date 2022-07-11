@@ -83,8 +83,12 @@ hobbies: ["football", "tennis", "piano", "Musics"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="50" height="50" />
-
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" alt="pycherm" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" alt="pycherm" width="50" height="50" />
+<img src="https://cdn2.iconfinder.com/data/icons/mixd/512/3_tableau-128.pngg" alt="Tableau" width="50" height="50" />
+<img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_excel-128.png" alt="excel" width="50" height="50" />
+ 
  
 </p>
 
