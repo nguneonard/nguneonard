@@ -1,9 +1,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 <h1 align="center">
   Let's Connect and have a Chat!💬
 </h1>
-</p>
 
 <p align="center">
  <a href="https://www.twitter.com/NeonardNgu/">
