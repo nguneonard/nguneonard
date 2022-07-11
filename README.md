@@ -81,3 +81,6 @@ hobbies: ["football", "tennis", "piano", "Musics"]
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
