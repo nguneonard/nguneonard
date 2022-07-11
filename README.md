@@ -33,6 +33,6 @@
 </a>
 </p>
 <p align="center">
-  <img  src="https://media3.giphy.com/media/nkff3KmdbVKmI/giphy.webp?cid=ecf05e47465tq9qe76lj44ydo1kexdbdiyckq8yz137sltqx&rid=giphy.webp&ct=g"/>
+  <img  src="https://media3.giphy.com/media/QpVUMRUJGokfqXyfa1/200w.webp?cid=ecf05e47j36ax6a3zjzsurjmkev996ipp8gle5r41869y9aq&rid=200w.webp&ct=g/>
   </p>
 
