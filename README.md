@@ -35,9 +35,11 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 </p>
+
 <p align="center">
-  <img width="450" height="400"  src="https://media0.giphy.com/media/xT9C25UNTwfZuk85WP/200.webp?cid=ecf05e47j36ax6a3zjzsurjmkev996ipp8gle5r41869y9aq&rid=200.webp&ct=g"/>
-  </p>
+  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
+</p>
+
 
 ```yaml
 * YOUR TEXT GOES HERE *
