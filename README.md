@@ -33,8 +33,6 @@
 </a>
 </p>
 <p align="center">
-<a href="https://www.instagram.com/kubinnguneonard/">
   <img  src="https://media3.giphy.com/media/nkff3KmdbVKmI/giphy.webp?cid=ecf05e47465tq9qe76lj44ydo1kexdbdiyckq8yz137sltqx&rid=giphy.webp&ct=g"/>
-</a>
   </p>
 
