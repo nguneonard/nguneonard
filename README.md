@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-  <br><b>Let's Connect and have a chat!!<b/></br>
+
 </p>
 
 <p align="center">
