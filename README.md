@@ -10,6 +10,9 @@
 <a href="www.linkedin.com/in/kubin-neonard-5b0117199">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-128.png"/>
 </a>
+  <a href="https://www.kaggle.com/kubinneonard">
+  <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-128.png"/>
+</a>
  <a href="https://www.facebook.com/kubinneonard.ngu/">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-2189/48/4-Facebook-128.png"/>
 </a>
