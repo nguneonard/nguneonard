@@ -13,6 +13,10 @@
   <a href="https://www.kaggle.com/kubinneonard">
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-128.png"/>
 </a>
+ </a>
+  <a href="  https://stackoverflow.com/users/3685975/user3685975">
+  <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Stack_Overflow-128.png"/>
+</a> 
  <a href="https://www.facebook.com/kubinneonard.ngu/">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-2189/48/4-Facebook-128.png"/>
 </a>
