@@ -74,7 +74,6 @@ technical_background:
 currently_learning: ["Mysql, machine learning, powerbi, r and Tableau"]
 2022 Goals: ["Create 10+ Projects and learn at least 5 new Technologies."]
 hobbies: ["football", "tennis", "piano", "Musics"]
-```
 
 - 🔭 I’m currently working on portfolio
 - 🌱 I’m currently learning something new in machine learning.
@@ -82,6 +81,9 @@ hobbies: ["football", "tennis", "piano", "Musics"]
 - 💬 Ask me about Anything.
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** Zoologists are wrong. Not every ***Python*** is a snake.
+```
+
+
 
 ---
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
