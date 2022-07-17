@@ -75,11 +75,10 @@ currently_learning: ["Mysql, machine learning, powerbi, r and Tableau"]
 2022 Goals: ["Create 10+ Projects and learn at least 5 new Technologies."]
 hobbies: ["football", "tennis", "piano", "Musics"]
 
-- 🔭 I’m currently working on portfolio
+- 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning something new in machine learning.
 - 👯 I’m looking to collaborate on Kaggle Competitions
 - 💬 Ask me about Anything.
-- 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** Zoologists are wrong. Not every ***Python*** is a snake.
 ```
 
