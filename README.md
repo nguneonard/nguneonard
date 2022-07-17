@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
+[![Divyanshu Yadav](https://raw.githubusercontent.com/thedivyanshuyadav/thedivyanshuyadav/main/banner.gif "Divyanshu Yadav")]
+
 <h1 align="center">
   Let's Connect and have a Chat!💬
 </h1>
