@@ -1,5 +1,5 @@
 
-[![Divyanshu Yadav](https://raw.githubusercontent.com/thedivyanshuyadav/thedivyanshuyadav/main/banner.gif "Divyanshu Yadav")]
+[![Divyanshu Yadav](https://raw.githubusercontent.com/thedivyanshuyadav/thedivyanshuyadav/main/banner.gif "Kubin Neonard")]
 
 
 <p align="center">
