@@ -1,6 +1,11 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
-[![Kubin Neonard](https://raw.githubusercontent.com/thedivyanshuyadav/thedivyanshuyadav/main/banner.gif "Kubin Neonard")]
 
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
 
 <p align="center">
  <a href="https://www.twitter.com/NeonardNgu/">
@@ -32,7 +37,9 @@
 </a>
 </p>
 
-
+<p align="center">
+  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
+</p>
 ---
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
