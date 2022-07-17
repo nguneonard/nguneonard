@@ -90,6 +90,7 @@ hobbies: ["football", "tennis", "piano", "Musics"]
   
  
 </p>
-
+[![](https://img.shields.io/badge/Pandas-3e5e78?style=for-the-badge&logo=pandas&logoColor=white)](#) &emsp;
+[![](https://img.shields.io/badge/numpy-695170?style=for-the-badge&logo=numpy&logoColor=white)](#) &emsp;
 ---
 
