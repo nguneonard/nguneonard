@@ -94,10 +94,8 @@ hobbies: ["football", "tennis", "piano", "Musics"]
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original.svg" title="Pandas"  alt="Pandas" width="45" height="45"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50" />
 
-
-  
- 
 </p>
 
 ---
