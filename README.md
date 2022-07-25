@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
+  <img src= "   https://www.freepik.com/free-vector/data-inform-illustration-concept_6195525.htm#query=data%20analysis&position=0&from_view=search   ">
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
