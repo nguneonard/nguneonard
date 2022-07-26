@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
+  <img src="https://raw.githubusercontent.com/nguneonard/nguneonard/main/site-stats-concept-illustration_114360-1434.webp">
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
