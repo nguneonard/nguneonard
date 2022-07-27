@@ -31,7 +31,7 @@
 </a> 
 
 <a href="https://app.datacamp.com/profile/nguneonard">
-  <img height="50" src="https://av-public-assets.s3.ap-south-1.amazonaws.com/logos/av-logo-svg.svg"/>
+  <img height="50" src="https://raw.githubusercontent.com/nguneonard/nguneonard/main/download.png"/>
 </a> 
 
 
