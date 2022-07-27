@@ -38,9 +38,6 @@
  <a href="https://www.facebook.com/kubinneonard.ngu/">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-2189/48/4-Facebook-128.png"/>
 </a>
-<a href="https://www.instagram.com/kubinnguneonard/">
-  <img height="50" src="https://raw.githubusercontent.com/nguneonard/nguneonard/main/download.png"/>
-</a>
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
