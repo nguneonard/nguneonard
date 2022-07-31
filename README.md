@@ -60,7 +60,7 @@ fields_of_interests:
     "Machine Learning",
     "Data Visualization",
     "Data mining",
-    "Data engineering"
+    "Data analysis"
   ]
 technical_background:
   [
