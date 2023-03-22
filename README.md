@@ -45,7 +45,7 @@
 ```yaml
 name: Kubin Ngu Neonard
 located_in: Yaounde, Cameroon
-current_job: Junior data analyst
+current_job: Junior data scientist
 education:
   [
     "Self-Taught Data analyst",
@@ -70,7 +70,7 @@ technical_background:
   ]
   
 currently_learning: ["Mysql, machine learning, powerbi, r and Tableau"]
-2022 Goals: ["Create 10+ Projects and learn at least 5 new Technologies."]
+2023 Goals: ["Create 10+ Projects and learn at least 5 new Technologies."]
 hobbies: ["football", "tennis", "piano", "Musics"]
 
 - 🔭 I’m currently working on my portfolio
