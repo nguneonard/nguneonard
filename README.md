@@ -11,7 +11,7 @@
  <a href="https://www.twitter.com/NeonardNgu/">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_6-twitter-128.png"/>
 </a>
-<a href="www.linkedin.com/in/kubin-neonard-5b0117199">
+<a href="https://www.linkedin.com/in/kubin-neonard/">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-128.png"/>
 </a>
   <a href="https://www.kaggle.com/kubinneonard">
