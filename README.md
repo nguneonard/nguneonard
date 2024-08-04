@@ -70,7 +70,7 @@ technical_background:
   ]
   
 currently_learning: ["Mysql, machine learning, powerbi, r and Tableau"]
-2023 Goals: ["Create 10+ Projects and learn at least 5 new Technologies."]
+2024 Goals: ["Create 10+ Projects and learn at least 5 new Technologies."]
 hobbies: ["football", "tennis", "piano", "Musics"]
 
 - 🔭 I’m currently working on my portfolio
